@@ -1,3 +1,6 @@
+# paper link:
+(https://drive.google.com/file/d/17lZP0NsBEKqjR6boDHTAEpKtxYrL2IQc/view?usp=sharing)
+
 # Training & Test
 The code for data preprocessing and model evaluation is borrowed from SemGCN.
 [garyzhao/SemGCN](https://github.com/garyzhao/SemGCN)
