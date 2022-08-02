@@ -1,4 +1,4 @@
-# paper link:
+# Paper Link:
 (https://drive.google.com/file/d/17lZP0NsBEKqjR6boDHTAEpKtxYrL2IQc/view?usp=sharing)
 
 # Training & Test
